@@ -15,6 +15,7 @@ protocols used when working with libSQL.
 
 | Component | Source code |
 | --- | --- |
+| [Java SDK] | [GitHub](https://github.com/libsql/libsql-client-java/) |
 | [TypeScript SDK] | [GitHub](https://github.com/libsql/libsql-client-ts/) |
 | [Rust SDK] | [GitHub](https://github.com/libsql/libsql-client-rs/) |
 | [Python SDK] | [GitHub](https://github.com/libsql/libsql-client-py/) |
